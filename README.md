@@ -1,0 +1,1 @@
+# bemax-blog-area
